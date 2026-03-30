@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic, wide-angle photograph taken in a dense, chaotic, overgrown primeval forest. The scene is dominated by a complex, irregular, tightly-packed maze of old, weather-beaten wooden fences and stakes driven into the uneven muddy earth. The maze has thousands of confusing, sharp turns, backtracking loops, and redundant barriers, hugging every random tree root, contour, and rock perfectly, following no logical path through the woods. The maze walls are built so precisely to the existing random noise of the environment that there is virtually no room to walk inside it; a human figure is attempting to navigate a narrow corridor and is hopelessly stuck, jammed against a fence and a tree, unable to take a single step. The overall structure looks impossible to traverse or generalize. In the blurry background, a clear, straight, open dirt trail is visible leading easily through the same forest, untouched by fences. The lighting is diffused natural daylight filtering through the canopy. The image has no text, labels, or diagrams, and is taken from a slightly elevated viewpoint. The image minimum short side is at least 1024px.",
+  "model": "Gemini 3 Flash Image",
+  "concept": "Overfitting",
+  "metaphor": "A wooden maze built to dodge every single random root, making it useless for navigation."
+}
